@@ -17,8 +17,4 @@ The Maven plugin `maven-resources-plugin` will copy the contents of the build di
 
 The `system.properties` is a file I used for Heroku to set the Java version and deploy the application. 
 
-https://spring-boot-vue-template.herokuapp.com/
-
-
-
 "# java-spring-boot-vue" 
